@@ -1,1 +1,0 @@
-This is the unfinished version of my Battleship project for ToP.
